@@ -1,0 +1,23 @@
+#particles-js{
+  height:99vh;
+  width:100%;
+}
+
+#sectionHero{
+  position:absolute;
+  top:0%;
+  left:0%;
+}
+
+#logo{
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+}
+
+#column-image{
+  margin-left:-45px;
+}
+
+#portfoy-item1{
+  background-image:"./assets/images/portfoy/esra-bozbay-hero.webp";
+}
