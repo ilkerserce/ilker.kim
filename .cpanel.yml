@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u0216812/ilker.kim/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
