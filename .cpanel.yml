@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u0216812/ilker.kim/
+    - export DEPLOYPATH=/home/u0216812/repositories/ilker.kim 
     - /bin/cp * $DEPLOYPATH
